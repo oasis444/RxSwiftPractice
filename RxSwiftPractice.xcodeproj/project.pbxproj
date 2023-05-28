@@ -29,6 +29,7 @@
 		33AB66622A21B54A006E39D7 /* Traits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Traits.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33AB66632A21BBE2006E39D7 /* Subject.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subject.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33AB66642A2214AB006E39D7 /* FilteringOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FilteringOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		33AB66652A22F19E006E39D7 /* TransformingOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TransformingOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		388FF10CE093A7A45EEF8E09 /* Pods-RxSwiftPractice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwiftPractice.release.xcconfig"; path = "Target Support Files/Pods-RxSwiftPractice/Pods-RxSwiftPractice.release.xcconfig"; sourceTree = "<group>"; };
 		4454BB66C0687A409930C24F /* Pods_RxSwiftPractice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RxSwiftPractice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C36F31712DE31BA0605828FB /* Pods-RxSwiftPractice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwiftPractice.debug.xcconfig"; path = "Target Support Files/Pods-RxSwiftPractice/Pods-RxSwiftPractice.debug.xcconfig"; sourceTree = "<group>"; };
@@ -70,6 +71,7 @@
 				33AB66622A21B54A006E39D7 /* Traits.playground */,
 				33AB66632A21BBE2006E39D7 /* Subject.playground */,
 				33AB66642A2214AB006E39D7 /* FilteringOperators.playground */,
+				33AB66652A22F19E006E39D7 /* TransformingOperators.playground */,
 				33807BAC2A2100BD00D5E6C3 /* RxSwiftPractice */,
 				33807BAB2A2100BD00D5E6C3 /* Products */,
 				2CBBA8CBB63ED394CB969084 /* Pods */,
