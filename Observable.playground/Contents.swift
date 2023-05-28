@@ -1,7 +1,7 @@
 import Foundation
 import RxSwift
 
-let disposeBag = DisposeBag()
+let disposeBag = DisposeBag() // Combine의 Set<AnyCancellable>()과 비슷함
 
 // just
 print("---- just ----")

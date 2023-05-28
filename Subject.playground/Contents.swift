@@ -3,9 +3,9 @@ import RxSwift
 let disposeBag = DisposeBag()
 
 
-// PublishSubject     ---> Combine의 PassthroughSubject와 비슷함
+// PublishSubject
 print("---- publishSubject ----")
-let publishSubject = PublishSubject<String>()
+let publishSubject = PublishSubject<String>() // ---> Combine의 PassthroughSubject와 비슷함
 
 publishSubject.onNext("1. Hello World")
 
