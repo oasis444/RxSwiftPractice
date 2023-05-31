@@ -17,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		336AEA8B2A2638A5007B0807 /* CombiningOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CombiningOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		336D75092A270E3A00EA6E25 /* TimeBasedOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TimeBasedOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33807BAA2A2100BD00D5E6C3 /* RxSwiftPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RxSwiftPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		33807BAD2A2100BD00D5E6C3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		33807BAF2A2100BD00D5E6C3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,8 @@
 				33AB66632A21BBE2006E39D7 /* Subject.playground */,
 				33AB66642A2214AB006E39D7 /* FilteringOperators.playground */,
 				33AB66652A22F19E006E39D7 /* TransformingOperators.playground */,
+				336AEA8B2A2638A5007B0807 /* CombiningOperators.playground */,
+				336D75092A270E3A00EA6E25 /* TimeBasedOperators.playground */,
 				33807BAC2A2100BD00D5E6C3 /* RxSwiftPractice */,
 				33807BAB2A2100BD00D5E6C3 /* Products */,
 				2CBBA8CBB63ED394CB969084 /* Pods */,
